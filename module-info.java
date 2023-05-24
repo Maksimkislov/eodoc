@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author maks
+ *
+ */
+module AntlrVisitor {
+}
